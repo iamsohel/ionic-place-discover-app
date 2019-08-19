@@ -1,0 +1,7 @@
+{
+  "name": "fun-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

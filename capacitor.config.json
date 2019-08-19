@@ -1,0 +1,7 @@
+{
+  "appId": "iamsohel.place-booking",
+  "appName": "fun-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
